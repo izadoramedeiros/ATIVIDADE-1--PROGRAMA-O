@@ -1,0 +1,127 @@
+INTERAÇÃO PACIENTE MAQUINA
+
+
+**1-Descreva de forma narrativa (slide 27) com a maior quantidade de detalhes 
+possível (Interação paciente máquina, setup, comunicação com hardware, o que 
+estiver mais familiarizado) como se daria a utilização do Lokomat® e ZeroG®**
+
+
+Lokomat®
+Se, o paciente chegar à clínica
+Então, avaliar paciente
+Se não, não haverá atendimento
+Acoplar o cinturão de segurança renti às vertebras
+Se, ajustar as travas de segurança
+Paciente é conduzido à esteira 
+Se não ajustar as travas
+Paciente na esteira
+Ativar suspensório 
+Paciente em posição ortostatica e suspenso pelo aparelo
+Colocar Locomat no paciente
+Se,ajustar todas as travas e angulações dos graus de movimento
+Dar início à terapia
+Se não, adaptar para a segurança do paciente 
+Ligar duspositivo
+Testadispositivo ainda com paciente suspenso 
+Dar o comando para descer o pacinte para a esteira
+Continuar terapia
+Dar feedback visual da cadẽncia através de um monitor à su afrente 
+Armazer informações adquiridas durante a sessão
+Fim 
+
+
+ZeroG®
+Pacinete chega à clínica 
+Se, colocar o pacinete no sispositivo suspenso 
+Então, ajustar travas de segurança
+Se não, não ajustar
+Dar start para iniciar
+Iniciar treinameto
+Aumentar a velocidade
+Se, tiver intercorrẽncias 
+Apertar botão de stop
+Se não, continuar treinamento
+Armazer informações adquiridas durante a sessão
+Fim
+
+**2-A partir das informações colocadas no texto da questão 1, destacar o que seriam memória, processamento, entrada/saída**
+
+
+Lokomat®
+Se, o paciente chegar à clínica **Processamento**
+Então, avaliar paciente **Memória**
+Se não, não haverá atendimento **Processamento**
+Acoplar o cinturão de segurança renti às vertebras **Processamento**
+Se, ajustar as travas de segurança **Processamento**
+Paciente é conduzido à esteira **Processamento**
+Se não ajustar as travas **Processamento**
+Paciente na esteira **Processamento**
+Ativar suspensório **Processamento**
+Paciente em posição ortostatica e suspenso pelo aparelo**Processamento**
+Colocar Locomat no paciente **Processamento**
+Se,ajustar todas as travas e angulações dos graus de movimento **Processamento**
+Dar início à terapia **Processamento**
+Se não, adaptar para a segurança do paciente **Processamento**
+Ligar duspositivo **Processamento**
+Testadispositivo ainda com paciente suspenso **Processamento**
+Dar o comando para descer o pacinte para a esteira **Disposivo de entrada**
+Continuar terapia
+Dar feedback visual da cadẽncia através de um monitor à su afrente **Dispositivo de saída**
+Armazer informações adquiridas durante a sessão **Memória**
+Fim 
+
+
+ZeroG®
+Pacinete chega à clínica **Processamento**
+Se, colocar o pacinete no sispositivo suspenso **Processamento**
+Então, ajustar travas de segurança **Processamento**
+Se não, não ajustar
+Dar start para iniciar **Processamento**
+Iniciar treinameto **Memória**
+Aumentar a velocidade **Processamento**
+Se, tiver intercorrẽncias **Processamento**
+Apertar botão de stop **Disposivo de entrada**
+Se não, continuar treinamento **Processamento**
+Armazer informações adquiridas durante a sessão **Memória**
+Fim
+
+**3-A partir das informações colocadas no texto da questão 1, destacar o que seriam as estruturas de repetição e de decisão:**
+
+
+Lokomat®
+Se, o paciente chegar à clínica **
+Então, avaliar paciente
+Se não, não haverá atendimento
+Acoplar o cinturão de segurança renti às vertebras
+Se, ajustar as travas de segurança
+Paciente é conduzido à esteira 
+Se não ajustar as travas
+Paciente na esteira
+Ativar suspensório 
+Paciente em posição ortostatica e suspenso pelo aparelo
+Colocar Locomat no paciente
+Se,ajustar todas as travas e angulações dos graus de movimento
+Dar início à terapia
+Se não, adaptar para a segurança do paciente 
+Ligar duspositivo
+Testadispositivo ainda com paciente suspenso 
+Dar o comando para descer o pacinte para a esteira
+Continuar terapia
+Dar feedback visual da cadẽncia através de um monitor à su afrente 
+Armazer informações adquiridas durante a sessão
+Fim 
+
+
+ZeroG®
+Pacinete chega à clínica 
+Se, colocar o pacinete no sispositivo suspenso 
+Então, ajustar travas de segurança
+Se não, não ajustar
+Dar start para iniciar
+Iniciar treinameto
+Aumentar a velocidade
+Se, tiver intercorrẽncias 
+Apertar botão de stop
+Se não, continuar treinamento
+Armazer informações adquiridas durante a sessão
+Fim
