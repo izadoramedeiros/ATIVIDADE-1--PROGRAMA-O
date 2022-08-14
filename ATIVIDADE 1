@@ -33,14 +33,15 @@ ZeroG®
 Pacinete chega à clínica 
 Se, colocar o pacinete no sispositivo suspenso 
 Então, ajustar travas de segurança
-Se não, não ajustar
-Dar start para iniciar
+Se não, não ajustar travas de segurança
+Para iniciar a terapia, dar start
 Iniciar treinameto
-Aumentar a velocidade
+Aumentar a velocidade atarvés do aplicativo no tablet
 Se, tiver intercorrẽncias 
 Apertar botão de stop
 Se não, continuar treinamento
-Armazer informações adquiridas durante a sessão
+Pedir feedback ao paciente de como ele está se sentindo
+Armazer informações adquiridas para próxima sessão
 Fim
 
 **2-A partir das informações colocadas no texto da questão 1, destacar o que seriam memória, processamento, entrada/saída**
