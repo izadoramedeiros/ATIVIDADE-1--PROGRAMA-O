@@ -15,17 +15,17 @@ Se, ajustar as travas de segurança
 Paciente é conduzido à esteira 
 Se não ajustar as travas
 Paciente na esteira
-Ativar suspensório 
+Para tivar suspensório, clicar no botão ligar 
 Paciente em posição ortostatica e suspenso pelo aparelo
 Colocar Locomat no paciente
-Se,ajustar todas as travas e angulações dos graus de movimento
-Dar início à terapia
-Se não, adaptar para a segurança do paciente 
+para iniciar terapia, ajustar todas as travas e angulações dos graus de movimento
+Perguntar ao paciente se ele está se sentido seguro e confiante
 Ligar duspositivo
-rDar o comando para descer o pacinte para a esteira
-Continuar terapia
-Dar feedback visual da cadẽncia através de um monitor à su afrente 
-Armazer informações adquiridas durante a sessão
+Dar o comando para descer o pacinte para a esteira,através do controle do dispositovo Locomat
+Então, continuar terapia
+Aumentar a cadência através do botão + no controle
+Fornecer feedback visual da cadẽncia através de um monitor à su afrente 
+Armazer informações adquiridas para o próximo atendimento.
 Fim 
 
 
